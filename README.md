@@ -18,4 +18,4 @@ public OnPlayerConnect(playerid)
 
 ### Credits
 - Author by: **Jekmant**
-- Continued by: **@unk.cs**
+- Continued by: **SAMP Android Brasil**
