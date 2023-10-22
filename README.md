@@ -16,6 +16,6 @@ public OnPlayerConnect(playerid)
 }
 ```
 
-## Credits
-Author: Jekmant
-Continued by: SAMP Android
+### Credits
+- Author by: **Jekmant**
+- Continued by: **@unk.cs**
