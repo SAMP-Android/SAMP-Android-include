@@ -1,5 +1,4 @@
 # SA-MP Android Include
-[![GitHub Release](https://img.shields.io/github/release/katursis/Pawn.RakNet.svg)]
 
 An include to detect if the user is using the SA-MP Android mobile client.
 
